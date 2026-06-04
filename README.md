@@ -10,13 +10,13 @@
 ###
 
 <div align="center">
-  <a href="https://it-master.od.ua/" target="_blank">
+  <a href="https://it-master.od.ua/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/IT--Master-Owner-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <img width="6" />
- <a href="https://maps.app.goo.gl/9VqySrcbjcgpJsZ77" target="_blank"> 
-  <img src="https://img.shields.io/badge/Based_in-Odesa-ffd700?style=flat-square" />
- </a>
+  <a href="https://maps.app.goo.gl/9VqySrcbjcgpJsZ77" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Based_in-Odesa-ffd700?style=flat-square" />
+  </a>
 </div>
 
 ###
@@ -26,7 +26,7 @@
 <p align="left">
 Welcome to my GitHub!<br>
 I'm a <strong>one-person IT integrator and developer</strong> from Ukraine, running
-<strong><a href="https://it-master.od.ua/">IT-Master</a></strong> — an IT-services company based in Odesa.<br><br>
+<strong><a href="https://it-master.od.ua/" target="_blank" rel="noopener">IT-Master</a></strong> — an IT-services company based in Odesa.<br><br>
 I run the full stack solo: from <strong>servers, virtualization and networking</strong> to
 <strong>web apps</strong>. On any given week I'm keeping client
 infrastructure alive, shipping a Laravel feature, tuning a Pine Script strategy — sometimes all at once.<br><br>
@@ -75,20 +75,45 @@ If it breaks, I fix it. If it doesn't exist yet, I build it. Thanks for stopping
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" height="34" alt="MySQL SQLite" />
 </div>
 
-</div>
-
 <h1></h1>
 
-<h3 align="center">🌐 Links</h3>
+<h3 align="center">📬 Зв'язатися зі мною</h3>
+<p align="center">Оберіть зручний канал — відповім швидко.</p>
 
 <br>
 
 <div align="center">
-  <a href="https://it-master.od.ua/"><img src="https://img.shields.io/badge/🌐_IT--Master-od.ua-0ea5e9?style=for-the-badge&logoColor=white" /></a>
-  <img width="10" />
-  <a href="https://t.me/itmaster_odessa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <img width="10" />
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-добав_лінк-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://it-master.od.ua/" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/✍️_Написати_через_сайт-it--master.od.ua-0ea5e9?style=for-the-badge&logoColor=white" height="40" />
+  </a>
+</div>
+
+<br>
+
+<h4 align="center">💬 Месенджери</h4>
+<div align="center">
+  <a href="https://t.me/itmasterodessa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-@itmasterodessa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img width="8" />
+  <a href="https://wa.me/+380979411371" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/WhatsApp-+380979411371-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <img width="8" />
+  <a href="viber://chat?number=+380979411371" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Viber-+380979411371-7360F2?style=for-the-badge&logo=viber&logoColor=white" /></a>
+  <img width="8" />
+  <a href="mailto:info@it-master.od.ua" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-info@it--master.od.ua-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br>
+
+<h4 align="center">🌐 Соцмережі</h4>
+<div align="center">
+  <a href="https://www.facebook.com/itmasterodessa/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img width="8" />
+  <a href="https://www.instagram.com/it_master_odessa/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img width="8" />
+  <a href="https://www.youtube.com/@itmasterodessa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <img width="8" />
+  <a href="https://www.tiktok.com/@itmaster_odessa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <img width="8" />
+  <a href="https://github.com/tiger13fi" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/GitHub-tiger13fi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 <h1></h1>
@@ -105,4 +130,3 @@ If it breaks, I fix it. If it doesn't exist yet, I build it. Thanks for stopping
 > ⚙️ **Infra** — VMware ESXi clusters · MikroTik · Windows Server / RDS · network security
 
 </div>
-
