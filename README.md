@@ -10,7 +10,9 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/IT--Master-Owner-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" />
+  <a href="https://it-master.od.ua/" target=blank>
+    <img src="https://img.shields.io/badge/IT--Master-Owner-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" />
+  </a>
   <img width="6" />
   <img src="https://img.shields.io/badge/Based_in-Odesa-ffd700?style=flat-square" />
 </div>
