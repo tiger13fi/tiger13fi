@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/u4J3T25O4dgAAAAC/fallout-lucy.gif" width="480" alt="Fallout - Lucy & Dogmeat by the campfire" />
 </div>
+https://tenor.com/view/very-nice-infinite-loop-ducks-duck-gif-11735771333708019694
 
+<div class="tenor-gif-embed" data-postid="11735771333708019694" data-share-method="host" data-aspect-ratio="0.797917" data-width="100%"><a href="https://tenor.com/view/very-nice-infinite-loop-ducks-duck-gif-11735771333708019694">Very Nice Infinite Loop Sticker</a>from <a href="https://tenor.com/search/very+nice-stickers">Very Nice Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ###
 
 <h1 align="center">Hey 👋 I'm Ihor</h1>
