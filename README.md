@@ -86,8 +86,7 @@ If it breaks, I fix it. If it doesn't exist yet, I build it. Thanks for stopping
 <div align="center">
   <a href="https://it-master.od.ua/"><img src="https://img.shields.io/badge/🌐_IT--Master-od.ua-0ea5e9?style=for-the-badge&logoColor=white" /></a>
   <img width="10" />
-  <!-- TODO: add your own profiles -->
-  <a href="#"><img src="https://img.shields.io/badge/Telegram-добав_лінк-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/itmaster_odessa"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <img width="10" />
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-добав_лінк-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
