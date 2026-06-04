@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/u4J3T25O4dgAAAAC/fallout-lucy.gif" width="480" alt="Fallout - Lucy & Dogmeat by the campfire" />
+  <img src="https://tenor.com/view/very-nice-infinite-loop-ducks-duck-gif-11735771333708019694" width="480" alt="Fallout - Lucy & Dogmeat by the campfire" />
 </div>
 https://tenor.com/view/very-nice-infinite-loop-ducks-duck-gif-11735771333708019694
 
