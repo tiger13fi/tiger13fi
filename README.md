@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/uk/view/fallout-lucy-dogmeat-falloutshow-vaultboy-gif-13511493015101694424" />
+  <img src="https://media1.tenor.com/m/u4J3T25O4dgAAAAC/fallout-lucy.gif" width="480" alt="Fallout - Lucy & Dogmeat by the campfire" />
 </div>
 
 ###
@@ -77,20 +77,20 @@ If it breaks, I fix it. If it doesn't exist yet, I build it. Thanks for stopping
 
 <h1></h1>
 
-<h3 align="center">📬 Зв'язатися зі мною</h3>
-<p align="center">Оберіть зручний канал — відповім швидко.</p>
+<h3 align="center">📬 Get in Touch</h3>
+<p align="center">Pick whatever channel suits you — I reply fast.</p>
 
 <br>
 
 <div align="center">
   <a href="https://it-master.od.ua/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/✍️_Написати_через_сайт-it--master.od.ua-0ea5e9?style=for-the-badge&logoColor=white" height="40" />
+    <img src="https://img.shields.io/badge/✍️_Message_me_via_website-it--master.od.ua-0ea5e9?style=for-the-badge&logoColor=white" height="40" />
   </a>
 </div>
 
 <br>
 
-<h4 align="center">💬 Месенджери</h4>
+<h4 align="center">💬 Messengers</h4>
 <div align="center">
   <a href="https://t.me/itmasterodessa" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-@itmasterodessa-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <img width="8" />
@@ -103,7 +103,7 @@ If it breaks, I fix it. If it doesn't exist yet, I build it. Thanks for stopping
 
 <br>
 
-<h4 align="center">🌐 Соцмережі</h4>
+<h4 align="center">🌐 Social Media</h4>
 <div align="center">
   <a href="https://www.facebook.com/itmasterodessa/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <img width="8" />
