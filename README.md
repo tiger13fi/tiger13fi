@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <a href="https://it-master.od.ua/" target=blank>
+  <a href="https://it-master.od.ua/" target="_blank">
     <img src="https://img.shields.io/badge/IT--Master-Owner-0ea5e9?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <img width="6" />
