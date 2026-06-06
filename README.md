@@ -36,7 +36,7 @@ I'm a <strong>one-person IT integrator and developer</strong> from Ukraine, runn
 <strong><a href="https://it-master.od.ua/" target="_blank" rel="noopener">IT-Master</a></strong> — an IT-services company based in Odesa.<br><br>
 I run the full stack solo: from <strong>servers, virtualization and networking</strong> to
 <strong>web apps</strong>. On any given week I'm keeping client
-infrastructure alive, shipping a Laravel feature, tuning a Pine Script strategy — sometimes all at once.<br><br>
+infrastructure alive, shipping a Laravel feature — sometimes all at once.<br><br>
 If it breaks, I fix it. If it doesn't exist yet, I build it. Thanks for stopping by! ⚡
 </p>
 
